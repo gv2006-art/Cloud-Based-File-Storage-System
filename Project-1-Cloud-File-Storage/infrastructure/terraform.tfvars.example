@@ -1,0 +1,4 @@
+aws_region           = "ap-south-1"
+bucket_name          = "gv2006art-nimbusdrive-files"
+environment           = "dev"
+allowed_cors_origin  = "http://localhost:5173"
